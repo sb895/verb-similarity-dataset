@@ -1,4 +1,4 @@
-# verb-similarity-dataset
+# VERB-143: verb similarity dataset
 143 pairs of verbs annotated by 10 annotators following the WS-353 guidelines.
 
 Please cite: 
